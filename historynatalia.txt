@@ -1,0 +1,8 @@
+   0 #cd /tmp/
+   1 nano script.sh
+   2 chmod +x /tmp/script.sh
+   3 ls -la
+   4 chmod +x script.sh
+   5 ls -la
+   6 ./script.sh 
+   7 history > /tmp/historynatalia.txt
